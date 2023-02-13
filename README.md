@@ -1,4 +1,4 @@
-https://shields.io/badge/-slack-1fff21  https://shields.io/badge/-node-fccf21  https://shields.io/badge/-glitch-ddc0c1
+![forthebadge](https://shields.io/badge/-slack-1fff21)  ![forthebadge](https://shields.io/badge/-node-fccf21)  ![forthebadge](https://shields.io/badge/-glitch-ddc0c1)
 
 # Slack Bot - Peebles 
 
